@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Usuario\source\repos\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\Usuario\source\repos\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Usuario\source\repos\Quiz\Quiz\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\source\repos\Quiz\Quiz\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\source\repos\Quiz\Quiz\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\source\repos\Quiz\Quiz\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\source\repos\Quiz\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Quiz\Quiz\obj\Debug\Quiz.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\Usuario\source\repos\Quiz\Quiz\obj\Debug\Quiz.pdb
